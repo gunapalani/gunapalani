@@ -4,23 +4,23 @@ Profile Visitors
 
 ### Hi there 👋
 
-- ✨ My name is **Logesh Palani**
+- ✨ My name is **Gunasekaran Palani**
 - ✨ I'm a **Full Stack Developer**
-- ✨ I'm a **[Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/02b688a8-0d07-ec11-b6e6-000d3a57952c)** at Microsoft
-- ✨ **Hobbies**: Drawing, Photography, Video Games
-- ✨ **Current Company**: [Siemens](https://www.siemens.com/global/en.html)
-- ✨ **Competencies**: MAUI, Xamarin Forms and Native, C#, .NET Core, .NET 7.0, MVC, jQuery, Microsoft Azure, Azure DevOps, HTML, CSS, SQL, API, Postman, Swift, Javascript, Git, Entity Framework Core, IOT, Raspberry Pi, Arduino, C, Power BI
+- ✨ I'm a **[C# Corner MVP](https://www.c-sharpcorner.com/members/guna-palani)** at C# Corner
+- ✨ **Hobbies**: Drawing, Photography, Video Games, Cricket
+- ✨ **Current Company**: [PRO](https://www.peninsularresearchops.com)
+- ✨ **Competencies**: JavaScript, React JS, Angular JS, Astro JS, Flutter, Microsoft Power Platform, Node.js, C#, .NET Core, and Azure.
 
 #### 📫 How to reach me
 
-- **Gmail**: logesh.01@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/logeshpalani31/
-- **Twitter**: https://twitter.com/logeshpalani30
-- **Facebook**: https://www.facebook.com/logeshpalani30
-- **Instagram**: https://www.instagram.com/logeshpalani31
-- **Sessionize**: https://sessionize.com/logeshpalani32
+- **Gmail**: gunapalani2002@gmail.com
+- **Outlook**: gunapalani19@outlook.com
+- **LinkedIn**: https://www.linkedin.com/in/gunasekaran-palani/
+- **X**: https://x.com/Gunapalani19
+- **Facebook**: https://www.facebook.com/gunalogesh.guna.7
+- **Instagram**: https://www.instagram.com/gunapalani_19/
 
-### 🗣️ Speaking
+<!-- ### 🗣️ Speaking
 
 1. [C# Coding Guidelines and Best Practices](https://sessionize.com/s/logeshpalani32/c-coding-guidelines-and-best-practices/55964) - May 4, 2022
 1. [Build real-time web apps with Azure Web PubSub](https://sessionize.com/s/logeshpalani32/build-real-time-web-apps-with-azure-web-pubsub/55963) - May 22, 2021
@@ -36,7 +36,7 @@ Profile Visitors
 1. [Publish Blazor WebAssembly with PWA in Azure Static Apps using GitHub Actions Step by Step](https://logeshpalani.blogspot.com/2021/04/publish-blazor-webassembly-with-pwa-in.html) - April 03, 2021
 1. [https://logeshpalani.blogspot.com/2020/07/xamarin-forms-payumoney-integration.html](https://logeshpalani.blogspot.com/2020/07/xamarin-forms-payumoney-integration.html) - July 21, 2020
 1. [Get Started DragonBoard 410c with Windows IOT Core
-](https://xmonkeys360.com/2020/05/16/get-started-dragonboard-410c-with-windows-iot-core/) - May 16, 2020
+   ](https://xmonkeys360.com/2020/05/16/get-started-dragonboard-410c-with-windows-iot-core/) - May 16, 2020
 1. [Xamarin.Android - Gesture Detector](https://www.c-sharpcorner.com/article/xamarin-android-gesture-detector) - May 18, 2020
 1. [Xamarin.Forms - DataGrid](https://www.c-sharpcorner.com/article/xamarin-forms-datagrid/) - May 15, 2020
 1. [HotReload With Wi-Fi Debugging Gives More Power To Xamarin Forms](https://www.c-sharpcorner.com/article/hotreload-with-wi-fi-debugging-gives-more-power-to-xamarin-forms/) - Feb 28, 2020
@@ -93,4 +93,4 @@ Profile Visitors
 
 ### 📝 Videos
 
-1. [How to Find WiFi Password in Windows 10 using Command Prompt/Powershell](https://www.c-sharpcorner.com/article/how-to-find-wifi-password-in-windows-10-using-command-promptpowershell/) - Jul 07, 2020
+1. [How to Find WiFi Password in Windows 10 using Command Prompt/Powershell](https://www.c-sharpcorner.com/article/how-to-find-wifi-password-in-windows-10-using-command-promptpowershell/) - Jul 07, 2020 -->
