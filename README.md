@@ -1,6 +1,6 @@
 Profile Visitors
 
-![Visitor Count](https://profile-counter.glitch.me/logeshpalani30/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/gunapalani/count.svg)
 
 ### Hi there 👋
 
