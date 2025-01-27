@@ -9,7 +9,6 @@ Profile Visitors
 - ✨ I'm a **[C# Corner MVP](https://www.c-sharpcorner.com/members/guna-palani)** at C# Corner
 - ✨ **Hobbies**: Drawing, Photography, Video Games, Cricket
 - ✨ **Current Company**: [Peninsular Research Operation](https://www.peninsularresearchops.com)
-- ✨ **Competencies**: JavaScript, React JS, Angular JS, Astro JS, Flutter, Microsoft Power Platform, Node.js, C#, .NET Core, and Azure.
 
 
 # 💻 Tech Stack:
